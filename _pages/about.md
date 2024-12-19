@@ -34,7 +34,7 @@ My research interest includes EEG analysis and Brain-Computer Interfaces.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/seed-dv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals](https://openreview.net/forum?id=RfsfRn9OFd)
@@ -48,7 +48,7 @@ My research interest includes EEG analysis and Brain-Computer Interfaces.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAFFC</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAFFC</div><img src='images/seed7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/10731546)
