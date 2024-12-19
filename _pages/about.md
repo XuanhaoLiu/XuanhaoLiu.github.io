@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University.
+I am a Ph.D student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University.
 
 I graduated from Sun Yat-Sen University with a bachelor’s degree.
 
