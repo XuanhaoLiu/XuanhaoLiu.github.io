@@ -27,7 +27,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our SEED-DV dataset has been released.
+- *2024.12*: &nbsp;🎉🎉 Our paper _mixEEG_ has been accepted by CogSci 2025 for Oral presentation.
 - *2024.10*: &nbsp;🎉🎉 Our paper _SEED-VII_ has been accepted by IEEE TAFFC.
 - *2024.09*: &nbsp;🎉🎉 Our paper _EEG2Video_ has been accepted by NeurIPS 2024.
 - *2024.08*: &nbsp;🎉🎉 Our paper _MoGE_ has been accepted by IEEE BIBM 2024.
@@ -45,6 +45,19 @@ My research interests include EEG analysis and Brain-Computer Interfaces.
 - We develop a large dataset recording signals from 20 subjects while they were watching 1400 dynamic video clips of 40 concepts.
 - We annotate each video clips to investigate the potential for decoding some specific meta information (e.g., color, dynamic, human or not) from EEG.
 - We propose a novel framework EEG2Video for video reconstruction from EEG signals.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025 Oral</div><img src='images/mixeeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[mixEEG: Enhancing EEG Federated Learning for Cross-subject EEG Classification with Tailored mixup]()
+
+**Xuan-Hao Liu**, Bao-Liang Lu, Wei-Long Zheng
+
+[**Project**](https://github.com/XuanhaoLiu/mixEEG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- For the first time, we investigate the cross-subject EEG classification in the FL setting, including the DG FL and DA FL settings.
+- We propose a simple yet effective framework termed **mixEEG**. Specifically, we tailor the vanilla mixup considering the unique properties of the EEG modality.
 </div>
 </div>
 
