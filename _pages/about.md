@@ -27,7 +27,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our paper _mixEEG_ has been accepted by CogSci 2025 for Oral presentation.
+- *2025.04*: &nbsp;🎉🎉 Our paper _mixEEG_ has been accepted by CogSci 2025 for Oral presentation.
 - *2024.10*: &nbsp;🎉🎉 Our paper _SEED-VII_ has been accepted by IEEE TAFFC.
 - *2024.09*: &nbsp;🎉🎉 Our paper _EEG2Video_ has been accepted by NeurIPS 2024.
 - *2024.08*: &nbsp;🎉🎉 Our paper _MoGE_ has been accepted by IEEE BIBM 2024.
