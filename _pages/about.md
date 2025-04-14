@@ -51,7 +51,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025 Oral</div><img src='images/mixeeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[mixEEG: Enhancing EEG Federated Learning for Cross-subject EEG Classification with Tailored mixup]()
+[mixEEG: Enhancing EEG Federated Learning for Cross-subject EEG Classification with Tailored mixup](https://arxiv.org/abs/2504.07987)
 
 **Xuan-Hao Liu**, Bao-Liang Lu, Wei-Long Zheng
 
