@@ -27,7 +27,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, especi
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper _MindCross_ has been accepted by MindCross 2026.
+- *2026.01*: &nbsp;🎉🎉 Our paper _MindCross_ has been accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 Our paper _EEGMirror_ has been accepted by ICCV 2025.
 - *2025.04*: &nbsp;🎉🎉 Our paper _mixEEG_ has been accepted by CogSci 2025 for Oral presentation.
 - *2024.10*: &nbsp;🎉🎉 Our paper _SEED-VII_ has been accepted by IEEE TAFFC.
@@ -43,7 +43,6 @@ My research interests include EEG analysis and Brain-Computer Interfaces, especi
 **Xuan-Hao Liu**, Yan-Kai Liu, Tian-Yi Zhou, Bao-Liang Lu, Wei-Long Zheng
 
 [**Project**](https://github.com/XuanhaoLiu/MindCross) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We present MindCross, a novel cross-subject brain decoding framework for rapid adaptation to new subjects.
 - Shared-specific encoder architecture learns subject-invariant and subject-related information seperately.
 - Only updating the parameter of the new subject while other modules are all frozen achieves fast new subject adaptation.
 </div>
@@ -57,7 +56,6 @@ My research interests include EEG analysis and Brain-Computer Interfaces, especi
 **Xuan-Hao Liu**, Bao-Liang Lu, Wei-Long Zheng
 
 [**Project**](https://github.com/XuanhaoLiu/EEGMirror) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose EEGMirror, a brain decoding framework for EEG-to-Video reconstruction.
 - Vector quantization converts the nonstationary raw EEG signals into more robust discrete representation.
 - Montage-agnostic position embedding (MAPE) enables EEGMirror to leverage large amounts of EEG data in the wild for pre-training.
 </div>
