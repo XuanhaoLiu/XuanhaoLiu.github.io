@@ -21,18 +21,47 @@ I am a Ph.D student in the Department of Computer Science and Engineering at Sha
 
 I graduated from Sun Yat-Sen University with a bachelor’s degree.
 
-My research interests include EEG analysis and Brain-Computer Interfaces.
+My research interests include EEG analysis and Brain-Computer Interfaces, especially decoding visual perception from EEG signals.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper _MindCross_ has been accepted by MindCross 2026.
+- *2025.10*: &nbsp;🎉🎉 Our paper _EEGMirror_ has been accepted by ICCV 2025.
 - *2025.04*: &nbsp;🎉🎉 Our paper _mixEEG_ has been accepted by CogSci 2025 for Oral presentation.
 - *2024.10*: &nbsp;🎉🎉 Our paper _SEED-VII_ has been accepted by IEEE TAFFC.
 - *2024.09*: &nbsp;🎉🎉 Our paper _EEG2Video_ has been accepted by NeurIPS 2024.
-- *2024.08*: &nbsp;🎉🎉 Our paper _MoGE_ has been accepted by IEEE BIBM 2024.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/MindCross.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals]()
+
+**Xuan-Hao Liu**, Yan-Kai Liu, Tian-Yi Zhou, Bao-Liang Lu, Wei-Long Zheng
+
+[**Project**](https://github.com/XuanhaoLiu/MindCross) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We present MindCross, a novel cross-subject brain decoding framework for rapid adaptation to new subjects.
+- Shared-specific encoder architecture learns subject-invariant and subject-related information seperately.
+- Only updating the parameter of the new subject while other modules are all frozen achieves fast new subject adaptation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/EEGmirror.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEGMirror: Leveraging EEG data in the wild via Montage-Agnostic Self-Supervision for EEG to Video Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_EEGMirror_Leveraging_EEG_Data_in_the_Wild_via_Montage-Agnostic_Self-Supervision_ICCV_2025_paper.pdf)
+
+**Xuan-Hao Liu**, Bao-Liang Lu, Wei-Long Zheng
+
+[**Project**](https://github.com/XuanhaoLiu/EEGMirror) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose EEGMirror, a brain decoding framework for EEG-to-Video reconstruction.
+- Vector quantization converts the nonstationary raw EEG signals into more robust discrete representation.
+- Montage-agnostic position embedding (MAPE) enables EEGMirror to leverage large amounts of EEG data in the wild for pre-training.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/seed-dv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,9 +102,10 @@ Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu
 </div>
 </div>
 
+- [MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals](), **Xuan-Hao Liu**, Yan-Kai Liu, Tian-Yi Zhou, Bao-Liang Lu, Wei-Long Zheng, **AAAI 2026**
+- [EEGMirror: Leveraging EEG data in the wild via Montage-Agnostic Self-Supervision for EEG to Video Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_EEGMirror_Leveraging_EEG_Data_in_the_Wild_via_Montage-Agnostic_Self-Supervision_ICCV_2025_paper.pdf), **Xuan-Hao Liu**, Bao-Liang Lu, Wei-Long Zheng, **ICCV 2025**
 - [EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals](https://openreview.net/forum?id=RfsfRn9OFd), **Xuan-Hao Liu**, Yan-Kai Liu, Yansen Wang, Kan Ren, Hanwen Shi, Zilong Wang, Dongsheng Li, Bao-Liang Lu, Wei-Long Zheng, **NeurIPS 2024**
 - [SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/10731546), Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu, **IEEE TAFFC 2024**
-- [Multimodal adaptive emotion transformer with flexible modality inputs on a novel dataset with continuous labels](https://dl.acm.org/doi/abs/10.1145/3581783.3613797), Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu, **ACM MM 2023**
 
 # 🎖 Honors and Awards
 - *2022.10* Shanghai Jiao Tong University Graduate First Prize Scholarship.
