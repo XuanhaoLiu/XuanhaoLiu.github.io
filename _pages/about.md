@@ -38,7 +38,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, especi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/MindCross.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals]()
+[MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals](https://arxiv.org/abs/2511.14196)
 
 **Xuan-Hao Liu**, Yan-Kai Liu, Tian-Yi Zhou, Bao-Liang Lu, Wei-Long Zheng
 
@@ -78,7 +78,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, especi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025 Oral</div><img src='images/mixeeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[mixEEG: Enhancing EEG Federated Learning for Cross-subject EEG Classification with Tailored mixup](https://arxiv.org/abs/2504.07987)
+[mixEEG: Enhancing EEG Federated Learning for Cross-subject EEG Classification with Tailored mixup](https://escholarship.org/uc/item/0t123879)
 
 **Xuan-Hao Liu**, Bao-Liang Lu, Wei-Long Zheng
 
@@ -100,7 +100,7 @@ Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu
 </div>
 </div>
 
-- [MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals](), **Xuan-Hao Liu**, Yan-Kai Liu, Tian-Yi Zhou, Bao-Liang Lu, Wei-Long Zheng, **AAAI 2026**
+- [MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals](https://arxiv.org/abs/2511.14196), **Xuan-Hao Liu**, Yan-Kai Liu, Tian-Yi Zhou, Bao-Liang Lu, Wei-Long Zheng, **AAAI 2026**
 - [EEGMirror: Leveraging EEG data in the wild via Montage-Agnostic Self-Supervision for EEG to Video Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_EEGMirror_Leveraging_EEG_Data_in_the_Wild_via_Montage-Agnostic_Self-Supervision_ICCV_2025_paper.pdf), **Xuan-Hao Liu**, Bao-Liang Lu, Wei-Long Zheng, **ICCV 2025**
 - [EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals](https://openreview.net/forum?id=RfsfRn9OFd), **Xuan-Hao Liu**, Yan-Kai Liu, Yansen Wang, Kan Ren, Hanwen Shi, Zilong Wang, Dongsheng Li, Bao-Liang Lu, Wei-Long Zheng, **NeurIPS 2024**
 - [SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/10731546), Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu, **IEEE TAFFC 2024**
