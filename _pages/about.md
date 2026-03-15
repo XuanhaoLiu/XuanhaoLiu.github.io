@@ -28,6 +28,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, especi
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper _MindCross_ has been accepted by AAAI 2026.
+- *2025.12*: &nbsp;🎉🎉 We won the championship in the emotion recognition track of the BCI competition, see SJTU's official news [here](https://news.sjtu.edu.cn/jdyw/20251211/217941.html).
 - *2025.10*: &nbsp;🎉🎉 Our paper _EEGMirror_ has been accepted by ICCV 2025.
 - *2025.04*: &nbsp;🎉🎉 Our paper _mixEEG_ has been accepted by CogSci 2025 for Oral presentation.
 - *2024.10*: &nbsp;🎉🎉 Our paper _SEED-VII_ has been accepted by IEEE TAFFC.
@@ -106,6 +107,7 @@ Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu
 - [SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/10731546), Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu, **IEEE TAFFC 2024**
 
 # 🎖 Honors and Awards
+- *2025.12* Championship in the emotion recognition track of the BCI competition.
 - *2022.10* Shanghai Jiao Tong University Graduate First Prize Scholarship.
 - *2023.10* Shanghai Jiao Tong University Graduate First Prize Scholarship.
 
