@@ -107,9 +107,10 @@ Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu
 - [SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/10731546), Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu, **IEEE TAFFC 2024**
 
 # 🎖 Honors and Awards
-- *2025.12* Championship in the emotion recognition track of the BCI competition.
-- *2022.10* Shanghai Jiao Tong University Graduate First Prize Scholarship.
-- *2023.10* Shanghai Jiao Tong University Graduate First Prize Scholarship.
+- *2026* National Scholarship (国家奖学金).
+- *2025* Championship in the emotion recognition track of the BCI competition.
+- *2023* Shanghai Jiao Tong University Graduate First Prize Scholarship.
+- *2022* Shanghai Jiao Tong University Graduate First Prize Scholarship.
 
 # 📖 Educations
 - *2024.06 - present*, Ph.D student, Computer Science and Technology, Shanghai Jiao Tong University.
@@ -117,11 +118,9 @@ Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu
 - *2018.09 - 2022.06*, Theoretical and Applied Mechanics, Sun Yat-Sen University.
 - *2015.09 - 2018.06*, The High School Attached to Hunan Normal University.
 
-<!--
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+- *2025.12*, Reconstruction Dynamic Visual Perception from EEG Signals. \| [\[video\]](https://mp.weixin.qq.com/s/Uq4tbtmTOfj3zuzXptfYOg)
 
 # 💻 Internships
+- *2026.07 - 2026.09*, RIKEN AIP, Tokyo, Japan.
 - *2023.11 - 2024.05*, Microsoft Research Asia, Shanghai, China.
