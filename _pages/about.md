@@ -122,5 +122,5 @@ Wei-Bang Jiang, **Xuan-Hao Liu**, Wei-Long Zheng, Bao-Liang Lu
 - *2025.12*, Reconstruction Dynamic Visual Perception from EEG Signals. \| [\[video\]](https://mp.weixin.qq.com/s/Uq4tbtmTOfj3zuzXptfYOg)
 
 # 💻 Internships
-- *2026.07 - 2026.09*, RIKEN AIP, Tokyo, Japan.
-- *2023.11 - 2024.05*, Microsoft Research Asia, Shanghai, China.
+- *2026.07 - 2026.09*, RIKEN AIP, Tokyo, Japan, supervised by [Qibin Zhao](https://aip.riken.jp/labs/math_intel/tensor_learn/).
+- *2023.11 - 2024.05*, Microsoft Research Asia, Shanghai, China, supervised by [Yansen Wang](https://victorywys.github.io/) and [Kan Ren](https://saying.ren/).
