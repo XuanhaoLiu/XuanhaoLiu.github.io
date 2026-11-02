@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the [School of Computer Science](https://www.cs.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by [Wei-Long Zheng](https://weilongzheng.github.io/) and [Bao-Liang Lu](https://bcmi.sjtu.edu.cn/home/blu/) (until 2024 when I transferred to Ph.D track from M.S track).
+I am a Ph.D. candidate in the [School of Computer Science](https://www.cs.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by [Wei-Long Zheng](https://weilongzheng.github.io/) and [Bao-Liang Lu](https://bcmi.sjtu.edu.cn/home/blu/) (until 2024 when I transferred to Ph.D track from M.S track). I received my B.Eng. degree from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
 
-I was a student researcher at [Tensor Learning Team](https://aip.riken.jp/labs/math_intel/tensor_learn/?lang=en), [RIKEN AIP](https://aip.riken.jp/), advised by [Qibin Zhao](https://scholar.google.com/citations?hl=en&pli=1&user=cSQGe3YAAAAJ).
+I was a student researcher at [Tensor Learning Team](https://aip.riken.jp/labs/math_intel/tensor_learn/?lang=en), [RIKEN AIP](https://aip.riken.jp/), in Tokyo, Japan, advised by [Qibin Zhao](https://scholar.google.com/citations?hl=en&pli=1&user=cSQGe3YAAAAJ).
 
 I was a research intern at [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/), [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), mentored by [Yansen Wang](https://victorywys.github.io/) and [Kan Ren](https://saying.ren/).
-
-I received my B.Eng. degree from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
 
 My research interests lie at the intersection of NeuroAI, brain-computer interfaces (BCI), and machine learning, with a particular focus on neural signal decoding, cross-modal brain representation learning, and foundation models for neural signals.
 
