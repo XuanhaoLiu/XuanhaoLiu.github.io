@@ -17,22 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University.
+I am a Ph.D. candidate in the [School of Computer Science](https://www.cs.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by [Wei-Long Zheng](https://weilongzheng.github.io/) and [Bao-Liang Lu](https://bcmi.sjtu.edu.cn/home/blu/) (until 2024 when I transferred to Ph.D track from M.S track).
 
-I graduated from Sun Yat-Sen University with a bachelor’s degree.
+I was a student researcher at [Tensor Learning Team](https://aip.riken.jp/labs/math_intel/tensor_learn/?lang=en), [RIKEN AIP](https://aip.riken.jp/), advised by [Qibin Zhao](https://scholar.google.com/citations?hl=en&pli=1&user=cSQGe3YAAAAJ).
 
-My research interests include EEG analysis and Brain-Computer Interfaces, especially decoding visual perception from EEG signals.
+I was a research intern at [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/), [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), mentored by [Yansen Wang](https://victorywys.github.io/) and [Kan Ren](https://saying.ren/).
+
+I received my B.Eng. degree from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
+
+My research interests lie at the intersection of NeuroAI, brain-computer interfaces (BCI), and machine learning, with a particular focus on neural signal decoding, cross-modal brain representation learning, and foundation models for neural signals.
+
+I am currently seeking **postdoctoral research** opportunities and would be excited to collaborate with researchers working at the intersection of AI and neuroscience. Please feel free to reach out if you are interested in discussing potential opportunities or collaborations.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper _MindCross_ has been accepted by AAAI 2026.
+- *2026.10*: &nbsp;🎉🎉 Our paper _IntraBraM_ about foundation model of intracranial EEG has been accepted by BIBM 2026.
+- *2026.01*: &nbsp;🎉🎉 Our paper _MindCross_ about cross-subject video decoding has been accepted by AAAI 2026.
 - *2025.12*: &nbsp;🎉🎉 We won the championship in the emotion recognition track of the BCI competition, see SJTU's official news [here](https://news.sjtu.edu.cn/jdyw/20251211/217941.html).
-- *2025.10*: &nbsp;🎉🎉 Our paper _EEGMirror_ has been accepted by ICCV 2025.
-- *2025.04*: &nbsp;🎉🎉 Our paper _mixEEG_ has been accepted by CogSci 2025 for Oral presentation.
-- *2024.10*: &nbsp;🎉🎉 Our paper _SEED-VII_ has been accepted by IEEE TAFFC.
-- *2024.09*: &nbsp;🎉🎉 Our paper _EEG2Video_ has been accepted by NeurIPS 2024.
+- *2025.10*: &nbsp;🎉🎉 Our paper _EEGMirror_ about montage-agnostic pre-training has been accepted by ICCV 2025.
+- *2025.04*: &nbsp;🎉🎉 Our paper _mixEEG_ about cross-subject federated learning has been accepted by CogSci 2025 for Oral presentation.
+- *2024.10*: &nbsp;🎉🎉 Our paper _SEED-VII_, a novel multimodal emotion dataset, has been accepted by IEEE TAFFC.
+- *2024.09*: &nbsp;🎉🎉 Our paper _EEG2Video_ about decoding video from EEG has been accepted by NeurIPS 2024.
 
 # 📝 Publications 
 
