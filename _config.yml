@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuanhao Liu"
-description              : "Ph.D student in SJTU. Focusing on EEG analysis and Brain-Computer Interfaces."
+description              : "Ph.D candidate in SJTU. Focusing on NeuroAI, Brain-Computer Interfaces, and Machine Learning."
 repository               : "XuanhaoLiu/XuanhaoLiu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/XuanhaoLiu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/359/4199.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
